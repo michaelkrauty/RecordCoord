@@ -1,0 +1,16 @@
+name: RecordCoord
+main: me.michaelkrauty.RecordCoord.RecordCoord
+author: michaelkrauty
+version: 1.0
+commands:
+   recordcoords:
+     description: Record current coordinates
+     usage: /recordcoords
+   recallcoords:
+     description: Recall saved coordinates
+     usage: /recallcoords
+   listcoords:
+     description: List saved coordinates
+     usage: /listcoords
+   removecoords:
+     description: Remove saved coordinates
